@@ -68,5 +68,13 @@ java -jar hello-spring-0.0.1-SNAPSHOT.jar
 
 
 
+------
+
+
+
+## More Explanation
+
+[Spring-Overview-Note.md](https://github.com/mwkangit/Spring-Overview/blob/master/Spring-Overview-Note.md)
+
 
 
