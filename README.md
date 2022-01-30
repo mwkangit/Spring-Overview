@@ -8,6 +8,10 @@
 
 
 
+------
+
+
+
 ## Environment
 
 <img alt="framework" src ="https://img.shields.io/badge/Framework-SpringBoot-green"/><img alt="framework" src ="https://img.shields.io/badge/Language-java-b07219"/> 
@@ -23,6 +27,10 @@ DBMS: `H2-Database`
 Template Engine: `Thymeleaf`
 
 Dependencies: `Spring Web`, `Spring Data JPA`
+
+
+
+------
 
 
 
@@ -50,10 +58,14 @@ java -jar hello-spring-0.0.1-SNAPSHOT.jar
 
 
 
+------
+
+
+
 ## Demonstration Video
 
-
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/79822924/151691390-39a34deb-f6fa-499b-831d-bea0556d6a59.gif)
+
 
 
 
